@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/morg/Documents/Semester 3/prakstrukdat26/praktikum-07-m0r6/src/output/student'
+relocations:     []
+...
